@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🖥️ Languages and Tools I've worked with:
+👀 Frontend:
+html5	css3	react	chakra ui	angular	bootstrap
+⚙️ Backend:
+nodejs	expressjs	mongoose	.net 5	entity framework core 5	spring	maven	hibernate	j unit 4
+🛢 Databases:
+mysql	microsoft sql server	mongodb
+👨‍💻 Programming Languages:
+javascript	c sharp	java	php
+🛠️ Other Tools:
+git	npm	uml	trello	photoshop
